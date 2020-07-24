@@ -11,4 +11,4 @@ cd c3c
 npm i
 npm start
 
-echo "========= KET THUC VAO THU MUC BOT CHAY npm i ffmpeg-static  ========="
+echo "========= KET THUC ========="

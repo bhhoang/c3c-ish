@@ -4,7 +4,6 @@ cd ..
 pkg install nodejs
 pkg install vim
 pkg install ffmpeg
-pkg install python
 pkg install python2
 pkg install git
 git clone -b 0.4.x-update https://github.com/lequanglam/c3c.git

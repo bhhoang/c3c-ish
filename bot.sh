@@ -1,8 +1,9 @@
-echo "Doi cai bot xong chi can go npm start"
+echo "Doi cai bot xong chi can ctrl+c"
 pkg update && pkg upgrade
 cd ..
 pkg install nodejs
 pkg install vim
+pkg install ffmpeg
 pkg install python
 pkg install python2
 pkg install git
